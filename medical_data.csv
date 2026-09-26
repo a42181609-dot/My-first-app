@@ -1,6 +1,402 @@
 subject,question,option1,option2,option3,option4,answer
-anatomy,Which organ pumps blood in the human body?,Lung,Heart,Liver,Kidney,Heart
-anatomy,What is the normal human body temperature?,37°C,98°C,45°C,32°C,37°C
-anatomy,Which vitamin deficiency causes night blindness?,Vitamin A,Vitamin B,Vitamin C,Vitamin D,Vitamin A
-physiology,What is the main function of red blood cells?,Oxygen transport,Blood clotting,Immunity,Digestion,Oxygen transport
-pharmacology,Which of the following is an antibiotic?,Paracetamol,Amoxicillin,Ibuprofen,Loratadine,Amoxicillin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Wich is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Aseptically sealed container,Tight container,Well-closed container,Hermetic container
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+anatomy, Which bone is the longest and strongest bone in the human body?,Femur,Tibia,Fibula,Humerus,Femur
+anatomy, How many bones are present in an adult human skeleton?,206,208,300,212,206
+anatomy, The human heart has how many chambers?,2,3,4,5,4
+anatomy, Which is the largest organ of the human body?,Liver,Skin,Brain,Lung,Skin
+anatomy, Which muscle is known as the strongest muscle based on its weight?,Masseter,Gluteus maximus,Biceps,Sartorius,Masseter
+anatomy, How many pairs of ribs are there in a normal human body?,10,12,14,16,12
+anatomy, What is the name of the outer layer of the skin?,Dermis,Epidermis,Subcutaneous,Hypodermis,Epidermis
+anatomy, Which part of the human brain controls balance and posture?,Cerebrum,Cerebellum,Medulla oblongata,Pons,Cerebellum
+anatomy, What is the total number of temporary (milk) teeth in a child?,20,24,28,32,20
+anatomy, Which structural protein makes up hair and nails?,Collagen,Keratin,Elastin,Myosin,Keratin
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Whch gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology,Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+physiology, What is the normal lifespan of a human Red Blood Cell (RBC)?,120 days,90 days,60 days,150 days,120 days
+physiology, What is the primary site of nutrient absorption in the digestive system?,Stomach,Small Intestine,Large Intestine,Esophagus,Small Intestine
+physiology, Which gas is primarily transported bound to hemoglobin?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Oxygen
+physiology, What is the normal resting blood pressure of a healthy adult?,120/80 mmHg,140/90 mmHg,100/60 mmHg,130/80 mmHg,120/80 mmHg
+physiology, Which hormone regulates blood sugar levels by lowering glucose?,Glucagon,Insulin,Cortisol,Adrenaline,Insulin
+physiology, What is the functional unit of the human kidney?,Nephron,Neuron,Alveoli,Ostiole,Nephron
+physiology, Which enzyme is found in human saliva that breaks down starch?,Pepsin,Amylase,Lipase,Trypsin,Amylase
+physiology, What is the normal pH range of human arterial blood?,7.0 - 7.15,7.35 - 7.45,7.5 - 7.6,6.8 - 6.9,7.35 - 7.45
+physiology, Which gland is known as the master gland of the endocrine system?,Thyroid gland,Pituitary gland,Adrenal gland,Pancreas,Pituitary gland
+physiology, Which structure prevents food from entering the windpipe?,Epiglottis,Pharynx,Larynx,Esophagus,Epiglottis
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology,What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Wich drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmacology, What is the mechanism of action of Paracetamol?,COX inhibition in CNS,Opioid receptor agonist,Beta blocker,Calcium channel blocker,COX inhibition in CNS
+pharmacology, Which of the following is classified as a broad-spectrum antibiotic?,Amoxicillin,Penicillin G,Nystatin,Acyclovir,Amoxicillin
+pharmacology, What is the primary medical use of Insulin?,Diabetes Mellitus,Hypertension,Asthma,Hyperlipidemia,Diabetes Mellitus
+pharmacology, Which drug is a well-known anticoagulant often called a blood thinner?,Warfarin,Aspirin,Ibuprofen,Metformin,Warfarin
+pharmacology, What type of drug is used to lower high blood pressure?,Antihypertensive,Analgesic,Antipyretic,Antibiotic,Antihypertensive
+pharmacology, Which of the following medications is a fast-acting bronchodilator for asthma?,Albuterol,Metoprolol,Omeprazole,Atorvastatin,Albuterol
+pharmacology, What is a common side effect of first-generation antihistamines?,Drowsiness,Insomnia,Hypertension,Diarrhea,Drowsiness
+pharmacology, Which drug is a proton pump inhibitor (PPI) used to reduce stomach acid?,Omeprazole,Ranitidine,Metoclopramide,Misoprostol,Omeprazole
+pharmacology, What is the antidote for an overdose of Acetaminophen (Paracetamol)?,N-acetylcysteine,Naloxone,Flumazenil,Atropine,N-acetylcysteine
+pharmacology, Which category of drugs is primarily used to treat severe depression?,Antidepressants,Antipsychotics,Anxiolytics,Sedatives,Antidepressants
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics,Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+pharmaceutics, What is the term for a liquid dosage form containing insoluble solid particles?,Suspension,Emulsion,Solution,Elixir,Suspension
+pharmaceutics, Which dosage form is designed to bypass the stomach and dissolve in the intestine?,Enteric-coated tablet,Effervescent tablet,Sublingual tablet,Capsule,Enteric-coated tablet
+pharmaceutics, What is the primary purpose of adding a binder in a tablet formulation?,To hold ingredients together,To make it taste sweet,To make it dissolve faster,To add color,To hold ingredients together
+pharmaceutics, Which route of drug administration provides 100% bioavailability?,Intravenous (IV),Oral,Subcutaneous,Intramuscular,Intravenous (IV)
+pharmaceutics, What is the term for a preparation consisting of two immiscible liquids?,Emulsion,Suspension,Syrup,Tincture,Emulsion
+pharmaceutics, Which test is used to measure the structural integrity and durability of a tablet?,Friability test,Disintegration test,Dissolution test,Hardness test,Friability test
+pharmaceutics, What type of water is strictly required for preparing parenterals (injections)?,Water for Injection,Purified water,Distilled water,Tap water,Water for Injection
+pharmaceutics, Which component is used to prevent the growth of microbes in multi-dose liquids?,Preservative,Diluent,Glidant,Disintegrant,Preservative
+pharmaceutics, What is the process of reducing the particle size of a solid drug called?,Comminution,Granulation,Trituration,Desiccation,Comminution
+pharmaceutics, Which container is completely impermeable to air, moisture, and microbes?",Hermetic container,Well-closed container,Light-resistant container,Tight container,Hermetic container
+
